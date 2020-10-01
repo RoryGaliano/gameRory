@@ -1,0 +1,32 @@
+{
+  "name": "gameRory",
+  "main": "index.js",
+  "homepage": "https://github.com/RoryGaliano/gameRory",
+  "authors": [
+    "RoryGaliano <rorygaliano@gmail.com>"
+  ],
+  "description": "video game library",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "gameRory": "https://github.com/RoryGaliano/videoGameCourse.git"
+  },
+  "version": "0.2.0",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "84ed7ddad42a84201e9395b3676287b09820fccd"
+  },
+  "_source": "https://github.com/RoryGaliano/gameRory.git",
+  "_target": "v0.2.0",
+  "_originalSource": "https://github.com/RoryGaliano/gameRory.git",
+  "_direct": true
+}
